@@ -1,10 +1,10 @@
 :root{
-    --cor-de-fundo:#608dd6af;
+    --cor-de-fundo:#000102af;
     --azul:#216091;
     --branco:#eff4fa;
     --botao-ativo:#3070af;
     --botao-inativo:#585987;
-    --texto-fundo:#02050b;
+    --texto-fundo:#19305e;
     --fonte: 'Cascadia Code';
 }
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
