@@ -29,7 +29,7 @@ function atualizaCronometro (){
 }
 function comecaCronometro (){
     atualizaCronometro ();
-    setInterval (atualizarCronometro, 1000);
+    setInterval (atualizaCronometro, 1000);
 }
 comecaCronometro();
 function calculaTempo (tempoObjetivo){
