@@ -57,10 +57,10 @@ body{
 @media screen and (min-width: 768px) {
     .botoes{
         display: flex;
-     }
+         }
       }
       .abas-textos{
-        background-color: var(--texto-fundo);
+        background-color: var(--cor-de-fundo);
         padding: 40px;
         border-radius: 0 0 40px 40px;
     }
